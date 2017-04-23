@@ -10,11 +10,11 @@
 %define	pypi_name	django-appconf
 Summary:	A helper class for handling configuration defaults of packaged apps gracefully
 Name:		python-%{pypi_name}
-Version:	1.0.1
-Release:	2
+Version:	1.0.2
+Release:	1
 License:	BSD
-Source0:	https://pypi.python.org/packages/source/d/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
-# Source0-md5:	29c87a00f0d098b90f3ac6113ae6e52d
+Source0:	https://files.pythonhosted.org/packages/source/d/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
+# Source0-md5:	cc11511a47088bc56531df67cd5d6261
 Group:		Libraries/Python
 URL:		http://pypi.python.org/pypi/django-appconf/
 BuildRequires:	rpm-pythonprov
