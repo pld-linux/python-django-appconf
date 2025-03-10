@@ -11,7 +11,7 @@
 Summary:	A helper class for handling configuration defaults of packaged apps gracefully
 Name:		python-%{pypi_name}
 Version:	1.0.2
-Release:	7
+Release:	8
 License:	BSD
 Source0:	https://files.pythonhosted.org/packages/source/d/%{pypi_name}/%{pypi_name}-%{version}.tar.gz
 # Source0-md5:	cc11511a47088bc56531df67cd5d6261
